@@ -1,4 +1,4 @@
-# `In preparation for 2.0, this repository will be cleared of all 1.0 related releases and code`
+- Oh when you guys preparing 2.0, I guess I'll just modify it to my own use, thanks!
 <p align="center"><img src="https://github.com/NetchX/Netch/blob/main/Netch/Resources/Netch.png?raw=true" width="128" /></p>
 
 <div align="center">
