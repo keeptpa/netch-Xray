@@ -33,7 +33,7 @@ public class VLESSGlobal
     
     public static readonly List<string> FlowControl = new()
     {
-        "none",
+        "",
         "xtls-rprx-vision",
         "xtls-rprx-direct",
         "xtls-rprx-origin",  
