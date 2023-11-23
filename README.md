@@ -1,4 +1,8 @@
 - Oh when you guys preparing 2.0, I guess I'll just modify it to my own use, thanks!
+### List of features of xray-branch;
+- Add settings that you could choose to use Xray as core or not
+- Add reality/xtls-vision etc. flow control algorithm support
+# Please switch to xray branch to check the code.
 <p align="center"><img src="https://github.com/NetchX/Netch/blob/main/Netch/Resources/Netch.png?raw=true" width="128" /></p>
 
 <div align="center">
